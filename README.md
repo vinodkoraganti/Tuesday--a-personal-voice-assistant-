@@ -3,7 +3,8 @@ Tuesday: A Personal Voice Assistant  "Tuesday" is a Python-based personal voice 
 
 Abstract:
 
-TUESDAY.docx](https://github.com/user-attachments/files/22483436/TUESDAY.docx)
+[TUESDAY.docx](https://github.com/user-attachments/files/22483489/TUESDAY.docx)
+
 
 document:
 
