@@ -8,5 +8,6 @@ Abstract:
 
 document:
 
-[[TUESDAY (a personal voice assistant).docx](https://github.com/user-attachments/files/22483439/TUESDAY.a.personal.voice.assistant.docx)
+
+[Uploading TUESDAY1.docx…]()
 
